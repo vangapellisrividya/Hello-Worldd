@@ -5,6 +5,7 @@ public class Helloworldd {
 
 {
 	System.out.println("HELLO");
+	System.out.println("world");
 
 }
 }
